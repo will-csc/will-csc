@@ -20,16 +20,13 @@ to my automatation projects.
 
 <hr>
 
-Let's connect! 📫<br>
+Let's connect! 📫 by Mail and Linkedin<br>
 
 <div> 
-  Mail:
   <a href="mailto:williamcscarvalho2025@pm.me" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhjb9jMA0vZYUcW8_l8msiAbEI-OY-FENyg&s" 
          width="40" height="40" alt="Email">
   </a>
-  
-  LinkedIn:
   <a href="https://www.linkedin.com/in/william-cesar-7b7b89202/" target="_blank">
     <img src="https://t.ctcdn.com.br/ClbNm_AxWl6gDsKOKmnZXzmsIXI=/1080x1080/smart/i490027.jpeg" 
          width="40" height="40" alt="LinkedIn">
