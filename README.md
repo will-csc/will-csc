@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=52bafa&random=false&width=435&lines=debug.print(%22Hello+World%22);print(%22Hello+I'm+William%22)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=52bafa&random=false&width=435&lines=debug.print(%22Hello+World%22);print(%22I'm+William%22);print!(%22%7B%7D%22%2C+%22a+young+student+of+Software+Developement%22);printf(%22I'm+currently+enrolled+in+the+Analysis+and+Systems+Development+course+at+UNIFECAF%22);System.out.print(%22where+I'm+expanding+my+skills+and+knowledge+in+the+field.%22)" alt="Typing SVG" /></a>
 
 <hr>
 
