@@ -24,9 +24,17 @@ Let's connect! 📫<br>
 
 <div> 
   Mail:<br>
-  <a href = "mailto:williamcscarvalho2025@pm.me"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhjb9jMA0vZYUcW8_l8msiAbEI-OY-FENyg&s" target="_blank"></a>
-  <br>LinkedIn:<br>
-  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/william-cesar-7b7b89202/)" target="_blank"><img src="https://t.ctcdn.com.br/ClbNm_AxWl6gDsKOKmnZXzmsIXI=/1080x1080/smart/i490027.jpeg" target="_blank"></a> 
+  <a href="mailto:williamcscarvalho2025@pm.me" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhjb9jMA0vZYUcW8_l8msiAbEI-OY-FENyg&s" 
+         width="40" height="40" alt="Email">
+  </a>
+  <br><br>
+  
+  LinkedIn:<br>
+  <a href="https://www.linkedin.com/in/william-cesar-7b7b89202/" target="_blank">
+    <img src="https://t.ctcdn.com.br/ClbNm_AxWl6gDsKOKmnZXzmsIXI=/1080x1080/smart/i490027.jpeg" 
+         width="40" height="40" alt="LinkedIn">
+  </a> 
 </div>
 
 <hr>
