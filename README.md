@@ -23,7 +23,7 @@ to my automatation projects.
 Let's connect! 📫<br>
 
 <div> 
-  <a href = "mailto:william.cesarbds2016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:williamcscarvalho2025@pm.me"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhjb9jMA0vZYUcW8_l8msiAbEI-OY-FENyg&s" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/william-cesar-7b7b89202/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
