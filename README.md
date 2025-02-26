@@ -6,7 +6,7 @@ Hi There 👋🏼
 I'm William Cesar, a young student of Software Developement based in São Paulo.
 I'm currently enrolled in the Analysis and Systems Development course at UNIFECAF,
 where I'm expanding my skills and knowledge in the field. On top of that, 
-I work as a Administrative assistant at Bufalo cleaning products in the data analysis area. 
+I worked as a Administrative assistant at Bufalo cleaning products in the data analysis area. 
 With a deep passion for technologies, programming and foreign languages
 I'm dedicated to staying up-to-date with the latest advancements and contributing to the tech industry.
 
@@ -42,6 +42,20 @@ Right below there is the programming languages I use
     <img align="center" alt="Will-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Will-C" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_c.svg">
     <img align="center" alt="Will-Rust" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rust.svg">
+</div>
+
+<hr>
+
+Right below there are the tools I use
+<div style="display: inline_block">
+    <img align="center" alt="Will-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Will-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="Will-Github" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
+    <img align="center" alt="Will-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+    <img align="center" alt="Will-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Will-KaliLinux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+    <img align="center" alt="Will-Neovim" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg">
+    <img align="center" alt="Will-IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 </div>
 
 <hr>
