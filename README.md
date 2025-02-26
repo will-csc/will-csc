@@ -46,8 +46,8 @@ Right below there is the programming languages I use
 
 <hr>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-csc\&rank_icon=github)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-csc\&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-csc\&rank_icon=github&theme=radical)
+  ![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=will-csc&layout=compact&langs_count=6&theme=radical)
 
 
 
