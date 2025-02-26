@@ -23,7 +23,7 @@ to my automatation projects.
 Let's connect! 📫 by Mail and Linkedin<br>
 
 <div> 
-  <a href="mailto:williamcscarvalho2025@pm.me" target="_blank">
+  <a href="mailto:william.cesarbds2016@gmail.com" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhjb9jMA0vZYUcW8_l8msiAbEI-OY-FENyg&s" 
          width="40" height="40" alt="Email">
   </a>
