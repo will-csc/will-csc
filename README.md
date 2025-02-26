@@ -20,21 +20,6 @@ to my automatation projects.
 
 <hr>
 
-Let's connect! 📫 by Mail and Linkedin<br>
-
-<div> 
-  <a href="mailto:william.cesarbds2016@gmail.com" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhjb9jMA0vZYUcW8_l8msiAbEI-OY-FENyg&s" 
-         width="40" height="40" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/william-cesar-7b7b89202/" target="_blank">
-    <img src="https://t.ctcdn.com.br/ClbNm_AxWl6gDsKOKmnZXzmsIXI=/1080x1080/smart/i490027.jpeg" 
-         width="40" height="40" alt="LinkedIn">
-  </a> 
-</div>
-
-<hr>
-
 Right below there is the programming languages I use
 <div style="display: inline_block">
     <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -63,5 +48,21 @@ Right below there are the tools I use
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-csc\&rank_icon=github&theme=radical)
   ![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=will-csc&layout=compact&langs_count=6&theme=radical)
 
+<hr>
+
+Let's connect! 📫 by Mail and Linkedin<br>
+
+<div> 
+  <a href="mailto:william.cesarbds2016@gmail.com" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhjb9jMA0vZYUcW8_l8msiAbEI-OY-FENyg&s" 
+         width="40" height="40" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/william-cesar-7b7b89202/" target="_blank">
+    <img src="https://t.ctcdn.com.br/ClbNm_AxWl6gDsKOKmnZXzmsIXI=/1080x1080/smart/i490027.jpeg" 
+         width="40" height="40" alt="LinkedIn">
+  </a> 
+</div>
+
+<hr>
 
 
