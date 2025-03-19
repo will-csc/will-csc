@@ -27,6 +27,7 @@ Right below there is the programming languages I use
     <img align="center" alt="Will-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Will-C" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_c.svg">
     <img align="center" alt="Will-Rust" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rust.svg">
+    <img align="center" alt="Will-Rust" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_slint.svg">
 </div>
 
 <hr>
