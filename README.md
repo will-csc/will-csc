@@ -51,7 +51,7 @@ Right below there are the tools I use
 
 <hr>
 
-Let's connect! 📫 by Mail and Linkedin<br>
+Let's connect! 📫 by Mail, Linkedin or WhatsApp<br>
 
 <div> 
   <a href="mailto:william.cesarbds2016@gmail.com" target="_blank">
@@ -62,6 +62,10 @@ Let's connect! 📫 by Mail and Linkedin<br>
     <img src="https://t.ctcdn.com.br/ClbNm_AxWl6gDsKOKmnZXzmsIXI=/1080x1080/smart/i490027.jpeg" 
          width="40" height="40" alt="LinkedIn">
   </a> 
+    <a href="https://wa.me/5511969541207" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
+         width="40" height="40" alt="WhatsApp">
+    </a>
 </div>
 
 <hr>
