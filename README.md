@@ -20,7 +20,7 @@ to my automatation projects.
 
 <hr>
 
-Right below there is the programming languages I use
+Right below there is the programming languages and tools I use  
 <div style="display: inline_block">
     <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Will-VBA" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vba.svg">
@@ -28,12 +28,11 @@ Right below there is the programming languages I use
     <img align="center" alt="Will-C" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_c.svg">
     <img align="center" alt="Will-Rust" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rust.svg">
     <img align="center" alt="Will-Rust" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_slint.svg">
-</div>
-
-<hr>
-
-Right below there are the tools I use
-<div style="display: inline_block">
+    <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Will-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Will-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Will-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Will-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Will-Github" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
@@ -47,7 +46,7 @@ Right below there are the tools I use
 <hr>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-csc\&rank_icon=github&theme=radical)
-  ![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=will-csc&layout=compact&langs_count=6&theme=radical)
+  ![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=will-csc&layout=compact&langs_count=10&theme=radical&cache_seconds=1800)
 
 <hr>
 
