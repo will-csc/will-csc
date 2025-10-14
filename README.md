@@ -6,7 +6,7 @@ Hi There 👋🏼
 I'm William Cesar, a young student of Software Developement based in São Paulo.
 I'm currently enrolled in the Analysis and Systems Development course at UNIFECAF,
 where I'm expanding my skills and knowledge in the field. On top of that, 
-I work as a Data Analysis Intern at Blue Beverage in the technology area. 
+I work as a Database Analysis Developer at Segula technologies in the finance area. 
 With a deep passion for technologies, programming and foreign languages
 I'm dedicated to staying up-to-date with the latest advancements and contributing to the tech industry.
 
